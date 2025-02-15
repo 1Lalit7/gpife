@@ -40,7 +40,7 @@ Higher the CLIP scores imply better the performance of model to generate high qu
 Install the repository
 
 ```bash
-pip install git+https://github.com/ponderbot-analytics/GPIFE.git
+pip install https://github.com/1Lalit7/gpife.git
 ```
 
 ## Inference
