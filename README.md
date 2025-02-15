@@ -51,7 +51,7 @@ Import the TextToImageGenerator class
 from scripts.inference import TextToImageGenerator
 ```
 
-Download the model weight ([pretrained model weights](https://drive.google.com/drive/folders/1oCSQ4Skdm5FjwnsTr1Mj8fp0U3HVsvRO) and [lora weight](https://drive.google.com/drive/folders/1cQ6UFKrjHsBwB594yZYLsDlo3TkE9vV2?usp=drive_link))
+Download the model weight ([pretrained model weights](https://drive.google.com/drive/folders/1oCSQ4Skdm5FjwnsTr1Mj8fp0U3HVsvRO?usp=sharing) and [lora weight](https://drive.google.com/drive/folders/1yisFL65VsL5Z0ZjsM4DFZPnRyPLXChMQ?usp=drive_link))
 
 Create the text_to_image object
 
