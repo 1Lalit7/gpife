@@ -76,7 +76,7 @@ image = text_to_image.generate_image(prompt)
 Clone the repository
 
 ```bash
-git clone https://github.com/ponderbot-analytics/GPIFE.git
+pip install https://github.com/1Lalit7/gpife.git
 ```
 
 Go to the GPIFE directory
